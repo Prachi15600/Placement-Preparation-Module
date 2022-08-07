@@ -5,23 +5,23 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3,1,1,3]
+<pre><strong>Input:</strong> nums = [1,2,3,1,1,3]
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,1,1,1]
+<pre><strong>Input:</strong> nums = [1,1,1,1]
 <strong>Output:</strong> 6
 <strong>Explanation:</strong> Each pair in the array are <em>good</em>.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,2,3]
+<pre><strong>Input:</strong> nums = [1,2,3]
 <strong>Output:</strong> 0
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
