@@ -5,15 +5,15 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg" style="width: 450px; height: 169px;">
-<pre style="position: relative;"><strong>Input:</strong> matrix = [[1,1,1],[1,0,1],[1,1,1]]
+<pre><strong>Input:</strong> matrix = [[1,1,1],[1,0,1],[1,1,1]]
 <strong>Output:</strong> [[1,0,1],[0,0,0],[1,0,1]]
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg" style="width: 450px; height: 137px;">
-<pre style="position: relative;"><strong>Input:</strong> matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
+<pre><strong>Input:</strong> matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
 <strong>Output:</strong> [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
