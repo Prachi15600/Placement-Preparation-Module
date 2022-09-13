@@ -3,4 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        return nums.sort()
+        low = 0
+        mid = 0
+        high = len(nums)-1
+        
+        while mid < high+1:
+            if nums[mid] == 0:
+                nums[low],nums[mid] = nums[mid],nums[low]
+                low += 1
+                mid += 1
+                
+            elif nums[mid] == 1:
+                mid += 1
+            
+            else :
+                nums[mid],nums[high] = nums[high],nums[mid]
+                high -= 1
+            
+        return nums
