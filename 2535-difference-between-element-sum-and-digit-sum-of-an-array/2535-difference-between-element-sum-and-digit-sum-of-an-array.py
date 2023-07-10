@@ -4,12 +4,12 @@ class Solution:
         dig_sum = 0
         for i in range(len(nums)):
             ele_sum = ele_sum + nums[i]
-        
-        for j in range(len(nums)):
-            while nums[j]>0:
-                dig = nums[j]%10
+            j = nums[i]
+        #for j in range(len(nums)):
+            while j>0:
+                dig = j%10
                 dig_sum = dig_sum+dig
-                nums[j] = nums[j]//10
+                j = j//10
         
             
         return ele_sum - dig_sum
