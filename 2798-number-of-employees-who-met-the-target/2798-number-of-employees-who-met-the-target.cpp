@@ -1,7 +1,13 @@
-class Solution:
-    def numberOfEmployeesWhoMetTarget(self, hours: List[int], target: int) -> int:
-        count = 0;
-        for i in range(len(hours)):
-            if(hours[i] >= target):
-                count += 1;
-        return count
+class Solution {
+public:
+    int numberOfEmployeesWhoMetTarget(vector<int>& hours, int target) {
+        int count = 0;
+        for(int i=0; i<hours.size(); i++) {
+            if(hours[i] >= target) {
+                count++;
+            }
+        }
+        return count;
+        
+    }
+};
