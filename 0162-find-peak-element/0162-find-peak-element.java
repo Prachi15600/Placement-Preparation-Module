@@ -14,7 +14,7 @@ class Solution {
                 return m;
             }
             
-            else if(m ==0 || nums[m] > nums[m-1] && m == n-1 || nums[m] < nums[m+1]) {
+            else if(nums[m] > nums[m-1] && nums[m] < nums[m+1]) {
                 l = m+1;
             }
             
