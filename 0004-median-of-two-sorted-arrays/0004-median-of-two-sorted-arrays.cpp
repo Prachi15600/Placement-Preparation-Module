@@ -1,26 +1,51 @@
-class Solution(object):
-    def findMedianSortedArrays(self, nums1, nums2):
-        ashort, along = nums1, nums2
-        if len(ashort) > len(along):
-            ashort, along = along, ashort
-        lenth = len(ashort) + len(along)
-        mindex = (lenth)//2
-        left = 0
-        right = len(ashort)
-        while left <= right:
-            midshort = (right + left) // 2
-            midlong = mindex - midshort
-            
-            lshort = ashort[midshort -1] if midshort>0 else float('-inf')
-            llong = along[midlong - 1] if midlong> 0 else float('-inf')
-            rshort = ashort[midshort] if midshort<len(ashort) else float('inf')
-            rlong = along[midlong] if midlong<len(along) else float('inf')
-            
-            if lshort <= rlong and rshort >= llong:
-                if lenth % 2 != 0:
-                    return min(rshort, rlong)
-                return (max(lshort, llong) + min(rshort, rlong)) /2.0
-            elif lshort > rlong:
-                right = midshort - 1
-            else:
-                left = midshort + 1
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
+        int n1 = a.size(), n2 = b.size();
+    int n = n1 + n2; //total size
+    //required indices:
+    int ind2 = n / 2;
+    int ind1 = ind2 - 1;
+    int cnt = 0;
+    int ind1el = -1, ind2el = -1;
+
+    //apply the merge step:
+    int i = 0, j = 0;
+    while (i < n1 && j < n2) {
+        if (a[i] < b[j]) {
+            if (cnt == ind1) ind1el = a[i];
+            if (cnt == ind2) ind2el = a[i];
+            cnt++;
+            i++;
+        }
+        else {
+            if (cnt == ind1) ind1el = b[j];
+            if (cnt == ind2) ind2el = b[j];
+            cnt++;
+            j++;
+        }
+    }
+
+    //copy the left-out elements:
+    while (i < n1) {
+        if (cnt == ind1) ind1el = a[i];
+        if (cnt == ind2) ind2el = a[i];
+        cnt++;
+        i++;
+    }
+    while (j < n2) {
+        if (cnt == ind1) ind1el = b[j];
+        if (cnt == ind2) ind2el = b[j];
+        cnt++;
+        j++;
+    }
+
+    //Find the median:
+    if (n % 2 == 1) {
+        return (double)ind2el;
+    }
+
+    return (double)((double)(ind1el + ind2el)) / 2.0;
+        
+    }
+};
