@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2292-counting-words-with-a-given-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
