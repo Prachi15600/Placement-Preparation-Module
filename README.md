@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1524-string-matching-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0686-repeated-string-match) |
 | [1524-string-matching-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
