@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3447-clear-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
