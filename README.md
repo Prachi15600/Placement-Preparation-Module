@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
