@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
