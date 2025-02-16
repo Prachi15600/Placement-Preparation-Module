@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
