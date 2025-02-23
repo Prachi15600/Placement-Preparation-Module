@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0053-maximum-subarray) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,11 +290,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
