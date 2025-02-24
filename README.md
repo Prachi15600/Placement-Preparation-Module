@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0908-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
