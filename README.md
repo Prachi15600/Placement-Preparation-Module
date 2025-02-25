@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2802-find-the-punishment-number-of-an-integer) |
