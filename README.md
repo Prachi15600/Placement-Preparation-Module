@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0540-single-element-in-a-sorted-array) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
