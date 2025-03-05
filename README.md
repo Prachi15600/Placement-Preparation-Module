@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
