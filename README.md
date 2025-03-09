@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0169-majority-element) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
