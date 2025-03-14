@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
