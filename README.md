@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
