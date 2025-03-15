@@ -1,31 +1,25 @@
 class Solution {
     public String reverseWords(String s) {
-        String res = "";
-        Stack<Character> st1 = new Stack<>();
-        Stack<Character> st2 = new Stack<>();
+        ArrayList<String> arr = new ArrayList<>();
+        String st = "";
 
-        for(int i=0; i<s.length(); i++) {
-            st1.push(s.charAt(i));
-        }
-
-        while(!st1.isEmpty()) {
-            char temp = st1.pop();
-            if(temp == ' ') {
-                while(!st2.isEmpty()) {
-                    res += st2.pop();
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == ' ') { 
+                if (!st.isEmpty()) { 
+                    arr.add(st);  // Add word to list
+                    st = ""; // Reset word
                 }
-                res += ' ';
+            } else {
+                st += s.charAt(i);
             }
-            else {
-                st2.push(temp);
-            }
-
         }
 
-        while(!st2.isEmpty()) {
-            res += st2.pop();
-        }
+        if (!st.isEmpty()) arr.add(st); // Add last word
 
-        return res.trim().replaceAll("\\s+", " ");
+        // Reverse the list
+        Collections.reverse(arr);
+        
+        // Convert back to string
+        return String.join(" ", arr);
     }
 }
