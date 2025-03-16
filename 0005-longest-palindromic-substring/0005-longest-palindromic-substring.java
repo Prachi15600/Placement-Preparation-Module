@@ -1,37 +1,35 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
-        if (n <= 1) return s; // Single character or empty string is already a palindrome
+        int maxLength = 1;
+        int sp = 0;
 
-        boolean[][] dp = new boolean[n][n];
-        int start = 0, maxLength = 1;
+        for(int i=1; i<s.length(); i++) {
+            // even
+            int l = i-1;
+            int r = i;
 
-        // Every single character is a palindrome
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
-
-        // Check for two-character palindromes
-        for (int i = 0; i < n - 1; i++) {
-            if (s.charAt(i) == s.charAt(i + 1)) {
-                dp[i][i + 1] = true;
-                start = i;
-                maxLength = 2;
-            }
-        }
-
-        // Check for palindromes longer than 2 characters
-        for (int length = 3; length <= n; length++) { // length of substring
-            for (int i = 0; i <= n - length; i++) { // start index
-                int j = i + length - 1; // end index
-                if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    start = i;
-                    maxLength = length;
+            while(l>=0 && r<s.length() && s.charAt(l) == s.charAt(r)) {
+                if(r-l+1 > maxLength) {
+                    maxLength = r-l+1;
+                    sp = l;
                 }
+                l--;
+                r++;
+            }
+
+            // odd
+            l = i-1;
+            r = i+1;
+            while(l>=0 && r<s.length() && s.charAt(l) == s.charAt(r)) {
+                if(r-l+1 > maxLength) {
+                    maxLength = r-l+1;
+                    sp = l;
+                }
+                l--;
+                r++;
             }
         }
 
-        return s.substring(start, start + maxLength);
+        return s.substring(sp, sp+maxLength);
     }
 }
