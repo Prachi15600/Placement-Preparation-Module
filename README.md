@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2649-count-total-number-of-colored-cells) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
