@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
