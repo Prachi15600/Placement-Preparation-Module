@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0686-repeated-string-match) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
