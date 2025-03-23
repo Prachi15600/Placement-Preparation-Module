@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
