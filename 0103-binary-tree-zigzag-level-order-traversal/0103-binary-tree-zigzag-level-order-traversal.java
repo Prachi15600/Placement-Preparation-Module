@@ -34,7 +34,7 @@ class Solution {
                 Collections.reverse(subList);
             }
             
-            res.add(subList);
+            res.add(new ArrayList<>(subList));
             count++;
 
         }
