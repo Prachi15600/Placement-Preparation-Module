@@ -29,5 +29,6 @@ class Solution {
             return -1;
         }
         return Math.max(leftHeight, rightHeight) + 1;
+        
     }
 }
