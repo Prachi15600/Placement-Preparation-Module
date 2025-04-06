@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -548,4 +553,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
