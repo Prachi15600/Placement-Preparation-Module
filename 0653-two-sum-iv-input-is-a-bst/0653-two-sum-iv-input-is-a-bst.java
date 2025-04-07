@@ -15,31 +15,18 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        return traverse(root, root, k);
+        Set<Integer> set = new HashSet<>();
+        return traversal(root, k, set);
     }
 
-    boolean traverse(TreeNode root, TreeNode curr, int k) {
-        if(curr == null) return false;
-        int findNum = k - curr.val;
-        if(helper(root, curr, findNum))  {
+    boolean traversal(TreeNode root, int k, Set<Integer> set) {
+        if(root == null) return false;
+
+        if(set.contains(k - root.val)) {
             return true;
         }
-        return traverse(root, curr.left, k) || traverse(root, curr.right, k);
-    }
+        set.add(root.val);
 
-    boolean helper(TreeNode root, TreeNode curr, int findNum) {
-        while(root != null) {
-            if(root.val < findNum) {
-                root = root.right;
-            }
-            else if(root.val > findNum) {
-                root = root.left;
-            }
-            else {
-                if(root != curr) return true;
-                return false;
-            }
-        }
-        return false;
+        return traversal(root.left, k, set) || traversal(root.right, k, set);
     }
 }
