@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0088-merge-sorted-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0074-search-a-2d-matrix) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
