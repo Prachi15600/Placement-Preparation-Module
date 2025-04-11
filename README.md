@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0300-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1170-shortest-common-supersequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
