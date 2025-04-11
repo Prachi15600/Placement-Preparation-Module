@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0908-middle-of-the-linked-list) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
