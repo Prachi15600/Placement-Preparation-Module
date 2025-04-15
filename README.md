@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0232-implement-queue-using-stacks) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0232-implement-queue-using-stacks) |
