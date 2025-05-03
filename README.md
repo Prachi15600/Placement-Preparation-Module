@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0138-copy-list-with-random-pointer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0038-count-and-say) |
+| [0126-word-ladder-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0151-reverse-words-in-a-string) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0199-binary-tree-right-side-view) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
