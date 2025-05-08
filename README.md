@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3227-find-missing-and-repeated-values) |
+| [3859-maximum-product-of-two-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3859-maximum-product-of-two-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3859-maximum-product-of-two-digits) |
 ## Data Stream
 |  |
 | ------- |
