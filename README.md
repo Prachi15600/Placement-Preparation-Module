@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0547-number-of-provinces) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0801-is-graph-bipartite) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1558-course-schedule-iv) |
 ## Simulation
