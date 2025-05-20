@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1317-monthly-transactions-i) |
+| [1415-students-and-examinations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1801-average-time-of-process-per-machine) |
