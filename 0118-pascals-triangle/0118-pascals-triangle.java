@@ -9,8 +9,8 @@ class Solution {
                     row.add(1);
                 }
                 else {
-                    int num = result.get(i-1).get(j) + result.get(i-1).get(j-1);
-                    row.add(num);
+                    int num = result.get(i-1).get(j-1) + result.get(i-1).get(j);
+                    row.add(num); 
                 }
             }
             result.add(row);
