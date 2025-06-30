@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Depth-First Search
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
