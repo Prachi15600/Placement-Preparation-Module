@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
