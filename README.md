@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3483-alternating-groups-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2509-minimize-xor) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
