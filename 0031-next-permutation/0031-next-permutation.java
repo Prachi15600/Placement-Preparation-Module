@@ -1,39 +1,40 @@
 class Solution {
     public void nextPermutation(int[] nums) {
+        // 2 1 5 4 3 0 0 , 2 3 0 0 1 4 5
         int n = nums.length;
-        int index = -1;
-
-        for(int i=n-1; i>0; i--) {
-            if(nums[i-1] < nums[i]) {
-                index = i-1;
+        int breakPoint = -1;
+        for(int i=n-2; i>=0; i--) {
+            if(nums[i] < nums[i+1]) {
+                breakPoint = i;
                 break;
             }
         }
-        if(index != -1) {
-            int indexToSwap = -1;
-            for(int i=n-1; i>index; i--) {
-                if(nums[i] > nums[index]) {
-                    indexToSwap = i;
+
+        if(breakPoint != -1) {
+            for(int i=n-1; i>breakPoint; i--) {
+                if(nums[i] > nums[breakPoint]) {
+                    int temp = nums[breakPoint];
+                    nums[breakPoint] = nums[i];
+                    nums[i] = temp;
                     break;
                 }
+
             }
-            int temp = nums[index];
-            nums[index] = nums[indexToSwap];
-            nums[indexToSwap] = temp;
+
+            
         }
+        reverse(nums, breakPoint+1, n-1);
 
-        
 
-        reverse(nums, index+1, n-1);
     }
 
-    private void reverse(int[] nums, int start, int end) {
-        while(start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
+    private void reverse(int[] nums, int left, int right) {
+        while(left < right) {
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+            left++;
+            right--;
         }
     }
 }
