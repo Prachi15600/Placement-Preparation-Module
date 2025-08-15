@@ -1,11 +1,12 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int N = m+n-2;
-        int r = m-1;
+        int N = m-1+n-1;
+        int b = n-1;
         double res = 1;
-        for(int i=1; i<=r; i++) {
-            res = res*(N-r+i)/i;
+        for(int i=1; i<=b; i++) {
+            res = (res*(N-b+i))/i;
         }
+
         return (int)res;
     }
 }
