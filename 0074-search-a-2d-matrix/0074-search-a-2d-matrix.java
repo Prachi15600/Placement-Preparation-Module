@@ -4,23 +4,20 @@ class Solution {
         int m = matrix[0].length;
 
         int start = 0;
-        int end = n*m-1;
+        int end = m*n -1;
 
         while(start <= end) {
-            int mid = start + (end - start) /  2;
-            int midVal = matrix[mid / m][mid % m];  
+            int mid = (start + end) / 2;
+            int midVal = matrix[mid/m][mid%m];
 
-            if(midVal == target) {
-                return true;
-            }
-
+            if(midVal == target) return true;
             else if(target < midVal) {
                 end = mid - 1;
             }
-            else {
-                start = mid + 1;
-            }
+            else start = mid+1;
         }
+
         return false;
+
     }
 }
