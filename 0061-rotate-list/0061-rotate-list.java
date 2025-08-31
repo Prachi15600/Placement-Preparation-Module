@@ -1,30 +1,34 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null || k == 0)
-            return head;
-
-        // Step 1: Find length
-        ListNode tail = head;
+        if(head == null || head.next == null || k == 0) return head;
         int length = 1;
-        while (tail.next != null) {
-            tail = tail.next;
+        ListNode temp = head;
+
+        while(temp.next != null) {
+            temp = temp.next;
             length++;
         }
+        temp.next = head;
 
-        // Step 2: Make it circular
-        tail.next = head;
-
-        // Step 3: Find new tail
-        int stepsToNewTail = length - (k % length);
-        ListNode newTail = head;
-        for (int i = 1; i < stepsToNewTail; i++) {
-            newTail = newTail.next;
+        int len = length - (k%length);
+        ListNode newHead = head;
+        for(int i=1; i<len; i++) {
+            newHead = newHead.next;
         }
 
-        // Step 4: Break the circle and set new head
-        ListNode newHead = newTail.next;
-        newTail.next = null;
+        head = newHead.next;
+        newHead.next = null;
 
-        return newHead;
+        return head;
     }
 }
