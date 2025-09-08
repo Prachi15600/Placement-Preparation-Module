@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
