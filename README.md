@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2887-sort-vowels-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3859-maximum-product-of-two-digits) |
