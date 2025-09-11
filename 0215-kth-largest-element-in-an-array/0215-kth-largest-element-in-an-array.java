@@ -6,9 +6,8 @@ class Solution {
             pq.add(nums[i]);
         }
 
-        while(k>0) {
+        for(int i=0; i<k; i++) {
             res = pq.poll();
-            k--;
         }
 
         return res;
