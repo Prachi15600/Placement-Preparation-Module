@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3618-find-the-original-typed-string-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
 | [3859-maximum-product-of-two-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -819,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
