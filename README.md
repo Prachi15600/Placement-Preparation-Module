@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0287-find-the-duplicate-number) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0744-network-delay-time) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Stack
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3483-alternating-groups-ii) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Indexed Tree
 |  |
