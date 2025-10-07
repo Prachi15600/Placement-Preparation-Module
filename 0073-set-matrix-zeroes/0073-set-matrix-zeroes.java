@@ -7,9 +7,9 @@ class Solution {
         Arrays.fill(row, 1);
         Arrays.fill(col, 1);
 
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                if(matrix[i][j] == 0) {
+        for(int i=0; i<n; i++) {                             //         0,1,2
+            for(int j=0; j<m; j++) {                         //row[] = {1,0,1}
+                if(matrix[i][j] == 0) {                      //col[] = {1,0,1}
                     row[i] = 0;
                     col[j] = 0;
                 }
