@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0584-find-customer-referee) |
 | [1182-game-play-analysis-iv](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1317-monthly-transactions-i) |
