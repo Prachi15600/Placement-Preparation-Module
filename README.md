@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3483-alternating-groups-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3859-maximum-product-of-two-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3618-find-the-original-typed-string-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0062-unique-paths) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -849,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
