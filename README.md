@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2887-sort-vowels-in-a-string) |
