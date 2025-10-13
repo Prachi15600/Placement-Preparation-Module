@@ -3,12 +3,11 @@ class Solution {
         int maxi = Integer.MIN_VALUE;
         int sum = 0;
         
-        for(int i=0; i<nums.length; i++) {
+        for(int i = 0; i<nums.length; i++) {
             sum = sum + nums[i];
-            maxi = Math.max(maxi, sum);
-            if(sum < 0) sum = 0;
+            maxi = Math.max(sum, maxi);
+            if(sum < 0) sum  = 0;
         }
-
         return maxi;
     }
 }
