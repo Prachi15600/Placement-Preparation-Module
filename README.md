@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0595-big-countries) |
 | [1182-game-play-analysis-iv](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1182-game-play-analysis-iv) |
+| [1258-article-views-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1415-students-and-examinations) |
