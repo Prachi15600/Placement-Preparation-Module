@@ -1,28 +1,24 @@
 class Solution {
     public String reverseWords(String s) {
+        String str = "";
         ArrayList<String> res = new ArrayList<>();
-        String st = "";
 
         for(int i=0; i<s.length(); i++) {
-            
             if(s.charAt(i) == ' ') {
-                if(!st.isEmpty()) {
-                    res.add(st);
-                    st = "";
+                if(!str.isEmpty()) {
+                    res.add(str);
+                    str = "";
                 }
-                
             }
             else {
-                st += s.charAt(i);
+                str += s.charAt(i);
             }
         }
-
-        if(!st.isEmpty()) {
-            res.add(st);
+        if(!str.isEmpty()) {
+            res.add(str);
         }
 
         Collections.reverse(res);
-
         return String.join(" ", res);
     }
 }
