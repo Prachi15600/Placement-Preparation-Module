@@ -1,14 +1,14 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int maxLength = 1;
         int sp = 0;
+        int maxLength = 1;
 
         for(int i=1; i<s.length(); i++) {
-            // even
+            //even
             int l = i-1;
             int r = i;
 
-            while(l>=0 && r<s.length() && s.charAt(l) == s.charAt(r)) {
+            while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
                 if(r-l+1 > maxLength) {
                     maxLength = r-l+1;
                     sp = l;
@@ -17,10 +17,11 @@ class Solution {
                 r++;
             }
 
-            // odd
+            //odd 
             l = i-1;
             r = i+1;
-            while(l>=0 && r<s.length() && s.charAt(l) == s.charAt(r)) {
+
+            while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
                 if(r-l+1 > maxLength) {
                     maxLength = r-l+1;
                     sp = l;
