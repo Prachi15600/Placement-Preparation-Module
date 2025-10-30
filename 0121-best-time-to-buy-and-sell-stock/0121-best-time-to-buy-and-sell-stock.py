@@ -4,7 +4,7 @@ class Solution:
         buy = prices[0]
         sell = 0
 
-        for i in range(1, len(prices)):
+        for i in range(len(prices)):
             sell = prices[i] - buy
             max_profit = max(max_profit, sell)
             buy = min(buy, prices[i])
