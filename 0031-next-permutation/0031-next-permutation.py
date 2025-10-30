@@ -1,29 +1,30 @@
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
-        index = -1
+        # 2 1 5 4 3 0 0 , 2 3 0 0 1 4 5
+
         n = len(nums)
-
-        for i in range(n-1, 0, -1) :
-            if nums[i-1] <nums[i]:
-                index = i-1
-                break
+        bp = -1
         
+        for i in range(n-1,-1,-1) :
+            if nums[i]>nums[i-1]:
+                bp = i-1
+                break
 
-        if index != -1:
+        if bp != -1:
             nextGreater = -1
-
-            for i in range(n-1, index, -1):
-                if nums[index] < nums[i]:
+            for i in range(n-1, bp, -1):
+                if nums[i] > nums[bp]:
                     nextGreater = i
                     break
 
-            nums[index], nums[nextGreater] = nums[nextGreater], nums[index]
+            nums[bp], nums[nextGreater] = nums[nextGreater], nums[bp]
 
-        self.reverse(nums, index+1, n-1)
+        self.reverse(nums, bp+1, n-1)
 
     def reverse(self, nums, l, r):
-        while l < r:
+        while l<r:
             nums[l], nums[r] = nums[r], nums[l]
-            l = l + 1
-            r = r - 1
+            l += 1
+            r -= 1
+    
         
