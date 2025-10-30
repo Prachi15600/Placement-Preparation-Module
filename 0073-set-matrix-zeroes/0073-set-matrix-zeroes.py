@@ -14,6 +14,6 @@ class Solution:
 
         for i in range(n):
             for j in range(m):
-                if row[i] == 1 or col[j] == 1:
+                if row[i]==1 or col[j]==1:
                     matrix[i][j] = 0
         
