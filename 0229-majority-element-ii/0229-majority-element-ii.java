@@ -5,7 +5,7 @@ class Solution {
 
         for(int num : nums) {
             if(count1 == 0 && num != ele2) {
-                count1++;
+                count1++;                   //count1 = 2, ele1 = 3, count2 = 1, ele2 = 2
                 ele1 = num;
             }
             else if(count2 == 0 && num != ele1) {
