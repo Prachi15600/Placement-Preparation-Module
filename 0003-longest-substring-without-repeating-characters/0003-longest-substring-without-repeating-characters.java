@@ -17,7 +17,7 @@ class Solution {
         return maxi;
     }
 }
-// {(p,0),(w,1),(k,3),(e,4)(w,5)} start = 2 maxi = 3
+// {(p,0), (w,3),(k,3), (e,4)} start = 3 maxi = 3
 // s = pwwkew
 //     012345
 // o/p = 3
