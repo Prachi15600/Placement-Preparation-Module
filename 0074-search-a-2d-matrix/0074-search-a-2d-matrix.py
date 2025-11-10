@@ -1,8 +1,19 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        n = len(matrix[0])
-        def get(idx: int) -> int:
-            r, c = divmod(idx, n)
-            return matrix[r][c]
-        return get(bisect_left(range(len(matrix)*n-1), target, key=get)) == target
-    
+        n = len(matrix)
+        m = len(matrix[0])
+        l = 0
+        r = n*m-1
+        while(l<=r):
+            mid = (l+r)//2
+            row = mid//m
+            col = mid%m
+            midEle = matrix[row][col]
+
+            if(target < midEle):
+                r = mid-1
+            elif(target > midEle):
+                l = mid+1
+            else:
+                return True
+        return False
