@@ -1,6 +1,6 @@
 class Solution:
     def maxCommon(self, ans, st):
-        maxL = 0
+        # maxL = 0
         count = 0
         n = min(len(ans), len(st))
 
@@ -8,9 +8,9 @@ class Solution:
             if ans[i] == st[i]:
                 count += 1
             else: break
-        maxL = max(maxL, count)
-        if len(ans)>len(st): return ans[0: maxL]
-        else: return st[0:maxL]
+        # maxL = max(maxL, count)
+        if len(ans)>len(st): return ans[0: count]
+        else: return st[0:count]
     def longestCommonPrefix(self, strs: List[str]) -> str:
         ans = strs[0]
         if(len(strs) == 0):
