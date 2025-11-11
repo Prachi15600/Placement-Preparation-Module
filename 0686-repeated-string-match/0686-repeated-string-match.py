@@ -8,7 +8,7 @@ class Solution:
                 return count
             res = res + a
             count += 1
-        print(res)
+        # print(res)
         if b in res:
             return count
         res += a
