@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1160-letter-tile-possibilities) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1073-number-of-enclaves) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0854-making-a-large-island) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0347-top-k-frequent-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -763,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prachi15600/Placement-Preparation-Module/tree/master/1093-recover-a-tree-from-preorder-traversal) |
