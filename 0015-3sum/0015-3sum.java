@@ -1,12 +1,12 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
-        Arrays.sort(nums);
-        for(int i=0; i<n; i++) {
+        int n = nums.length;     
+        Arrays.sort(nums);       //[-4,-1,-1,0,1,2]
+        for(int i=0; i<n; i++) {  // i = 0
             if(i > 0 && nums[i] == nums[i-1]) continue;
             
-            int j =i+1, k = n-1;
+            int j =i+1, k = n-1;    // j = 3, k = 4
             
             while(j<k) {
                 int sum = nums[i] + nums[j] + nums[k] ;
